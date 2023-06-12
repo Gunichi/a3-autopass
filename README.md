@@ -28,9 +28,8 @@ Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvime
 - [x] **Fluxograma**
 - [x] **Personas**
 - [x] **Cenários**
-- [ ] Recarregar Cartão TOP em Dinheiro
-- [ ] Protótipo lo-fi
-- [ ] Protótipo hi-fi
+- [x] Protótipo lo-fi
+- [x] Protótipo hi-fi
 - [ ] Avaliação heurística
 - [ ] Implementação
 - [ ] Apresentação
