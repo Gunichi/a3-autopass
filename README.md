@@ -30,9 +30,9 @@ Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvime
 - [x] **Cenários**
 - [x] Protótipo lo-fi
 - [x] Protótipo hi-fi
-- [ ] Avaliação heurística
-- [ ] Implementação
-- [ ] Apresentação
+- [x] Avaliação heurística
+- [x] Implementação
+- [x] Apresentação
 
 # Tecnologias Usadas
 
