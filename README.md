@@ -1,14 +1,14 @@
 # Projeto A3 - Dual AutoPass
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://v8.tech/wp-content/uploads/2022/11/namidia10.jpg)
 
 # Sobre o Projeto
 
 Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvimento de Sistemas, partindo da criação de um fluxograma passo a passo até a implementação.
 
 <h4 align="center"> 
-	🚧  Ainda estamos elaborando e desenvolvendo este projeto!
+	Este projeto foi finalizado 🚀
 </h4>
 
 # Índice/Sumário
