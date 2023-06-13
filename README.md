@@ -36,12 +36,18 @@ Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvime
 
 # Tecnologias Usadas
 
-<!-- - [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/) -->
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Figma](https://www.figma.com/)
 - [DrawIo](https://app.diagrams.net/)
+- [MOQUP](https://moqups.com)
 - [Xtensio](https://xtensio.com)
 
+# Como rodar?
+
+- Para rodar o projeto, acesse a parta (Projeto Implementado)
+- Execute o NPM Install
+- Rode o: npm run dev
 
 
 # Contribuição
