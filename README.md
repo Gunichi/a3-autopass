@@ -9,6 +9,8 @@ Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvime
 
 <h4 align="center"> 
 	Este projeto foi finalizado 🚀
+  Obs: Por conta das congruências de horários, esse projeto foi realizado baseado nas aulas gravadas e infelizmente não conseguimos sanar muitas dúvidas que surgiam por conta de UCS presenciais no mesmo horário.
+  Muito obrigado.
 </h4>
 
 # Índice/Sumário
@@ -17,6 +19,7 @@ Este é um projeto desenvolvido para a A3 do curso de Usabilidade e Desenvolvime
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
+* [Execução](#como-rodar)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
